@@ -6,7 +6,7 @@ export default function Header({ name }) {
       <div className="block w-12 h-12 mx-auto mb-4 rounded-full bg-gradient-conic from-gradient-3 to-gradient-4" />
       <p className="text-2xl text-center dark:text-white">
         <Link href="/">
-          {title}
+          Petshop ve Mama
         </Link>
       </p>
     </header>
